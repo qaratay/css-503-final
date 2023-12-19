@@ -16,8 +16,12 @@ To run the scripts, you need Python and the following libraries:
 - NumPy
 - Librosa
 - Scikit-learn
-- SoundFile (for audio file operations)
+- SoundFile
 
 You can install these dependencies via pip:
 ```bash
 pip install tensorflow numpy librosa scikit-learn soundfile
+```
+
+LibriSpeech ASR corpus was downloaded from here (test-clean was downloaded)
+https://www.openslr.org/12
